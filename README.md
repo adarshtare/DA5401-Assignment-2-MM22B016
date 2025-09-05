@@ -3,21 +3,13 @@
 
 This project applies Dimensionality Reduction (PCA) and Logistic Regression to the Mushroom Dataset.
 The dataset consists entirely of categorical features, with the target variable being the class of mushroom:
-
 e → Edible
-
 p → Poisonous
-
 The objectives of this project are:
-
 Perform Exploratory Data Analysis (EDA) and preprocessing.
-
 Apply Principal Component Analysis (PCA) to reduce dimensionality.
-
 Visualize variance explained and class separability.
-
 Train Logistic Regression models before and after PCA.
-
 Compare performance to evaluate the impact of PCA.
 
 📂 Dataset
