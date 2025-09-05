@@ -12,14 +12,12 @@ Visualize variance explained and class separability.
 Train Logistic Regression models before and after PCA.
 Compare performance to evaluate the impact of PCA.
 
-📂 Dataset
 
-Source: UCI Mushroom Dataset
-Rows: 8124 samples
-Features: 22 categorical attributes + target (class)
-Target Variable:
-e → Edible
-p → Poisonous
+## 📂 Folder Structure  
+
+├── DA5401_A2_PCA_MM22B013.ipynb       # Main Jupyter Notebook  
+├── README.md                          # Documentation file  
+└──mushrooms.csv                      # Mushroom dataset
 
 ⚙️ Steps Performed
 
